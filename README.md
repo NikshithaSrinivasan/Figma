@@ -295,11 +295,8 @@ page 4
 
 
 ## OUTPUT:
-![alt text](<Screenshot 2024-12-20 111412.png>)
-![alt text](<Screenshot 2024-12-20 113237.png>)
-![alt text](<Screenshot 2024-12-20 113305.png>)
-![alt text](<Screenshot 2024-12-20 113332.png>)
-![alt text](<Screenshot 2024-12-20 113350.png>)
+![image](https://github.com/user-attachments/assets/ff46686c-3ae7-4d77-bb47-3a7e57ddb7c8)
+
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
